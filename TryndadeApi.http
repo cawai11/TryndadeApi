@@ -1,0 +1,6 @@
+@TryndadeApi_HostAddress = http://localhost:5066
+
+GET {{TryndadeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
