@@ -1,0 +1,134 @@
+# Compiled object files
+*.dll
+*.exe
+*.so
+*.dylib
+*.pyc
+*.pdb
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build directories
+bin/
+obj/
+out/
+
+# NuGet packages
+*.nupkg
+!packages/
+# Uncomment if necessary however generally it will be regenerated when needed
+# packages/*
+
+# Visual Studio cache files
+*.ide
+
+# Visual Studio temporary files
+*~$*
+
+# Visual Studio Code files
+.vscode/
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# User-specific files
+*.swp
+*.swo
+*.tmp
+
+# Log files
+*.log
+
+# NPM Files (caso use Node.js para scripts)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Publish directory
+publish/
+
+# Config files
+appsettings.*.json
+
+# Secrets
+secrets.json
+
+# Backup files
+*.bak
+
+# StyleCop
+StyleCopCache.cache
+
+# JetBrains Rider
+.idea/
+
+# Rider settings
+*.sln.iml
+
+# Mac files
+*.DS_Store
+
+# Localization
+*.resources.dll
+
+# Generated files
+Generated/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Packages
+packages/
+
+# Visual Studio profiler
+TestResults/
+
+# Visual Studio Snapshot debugger
+.vs/
+
+# IIS Express
+/.vs/
+
+# Others
+*.orig
+
+# By default, ignore all test projects
+[Tt]est[s]/
+
+# Cake files
+*.cake
+
+# Cake output directories
+/**/artifacts/
+
+# Cake rebuild
+/.nuke/
+
+# Cake temp
+/.temp/
+
+# Entity Framework Migrations (opcional, se você quiser ignorar as migrações)
+Migrations/
+
+# Excluir arquivos de banco de dados locais
+*.mdf
+*.ldf
+
+# Excluir arquivos de dados do PostgreSQL (caso estejam no projeto, o que não é comum)
+*.pgdata
+
+# Excluir chaves privadas e certificados (caso existam)
+*.key
+*.pfx

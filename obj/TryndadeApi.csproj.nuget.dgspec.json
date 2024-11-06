@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cawai_7tfegop\\Documents\\projetos\\TryndadeApi\\TryndadeApi.csproj": {}
+    "C:\\projetos\\TryndadeApi\\TryndadeApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cawai_7tfegop\\Documents\\projetos\\TryndadeApi\\TryndadeApi.csproj": {
+    "C:\\projetos\\TryndadeApi\\TryndadeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cawai_7tfegop\\Documents\\projetos\\TryndadeApi\\TryndadeApi.csproj",
+        "projectUniqueName": "C:\\projetos\\TryndadeApi\\TryndadeApi.csproj",
         "projectName": "TryndadeApi",
-        "projectPath": "C:\\Users\\cawai_7tfegop\\Documents\\projetos\\TryndadeApi\\TryndadeApi.csproj",
-        "packagesPath": "C:\\Users\\cawai_7tfegop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cawai_7tfegop\\Documents\\projetos\\TryndadeApi\\obj\\",
+        "projectPath": "C:\\projetos\\TryndadeApi\\TryndadeApi.csproj",
+        "packagesPath": "C:\\Users\\monytor TI\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos\\TryndadeApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cawai_7tfegop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\monytor TI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,7 +50,15 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[8.0.10, )"
             },
