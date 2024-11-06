@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TryndadeApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+472420b381ddc839f594138ea78340a2fb7d82c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6feef8f1fb645a058c28f078a05c877f90553a56")]
 [assembly: System.Reflection.AssemblyProductAttribute("TryndadeApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TryndadeApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
