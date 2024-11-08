@@ -1,16 +1,16 @@
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using System;
+using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace TryndadeApi.Data
+namespace TryndadeApi.Models
 {
-    public class ApplicationDbContext : IdentityDbContext<IdentityUser>
+    public partial class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
-            : base(options)
-        {
-        }
+        public ApplicationDbContext() { }
 
-        // DbSets adicionais, se necessário
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options) { }
+
+
     }
 }

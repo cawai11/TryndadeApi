@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ikBNMXfrL0s=",
+  "dgSpecHash": "auYLPywY/2w=",
   "success": true,
-  "projectFilePath": "C:\\projetos\\TryndadeApi\\TryndadeApi.csproj",
+  "projectFilePath": "c:\\projetos\\TryndadeApi\\TryndadeApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\monytor TI\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\monytor TI\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.10\\microsoft.aspnetcore.authentication.jwtbearer.8.0.10.nupkg.sha512",

@@ -2,8 +2,8 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using TryndadeApi.Data;
 using System.Text;
+using TryndadeApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

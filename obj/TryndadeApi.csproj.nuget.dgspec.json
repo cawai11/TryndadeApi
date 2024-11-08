@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\TryndadeApi\\TryndadeApi.csproj": {}
+    "c:\\projetos\\TryndadeApi\\TryndadeApi.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\TryndadeApi\\TryndadeApi.csproj": {
+    "c:\\projetos\\TryndadeApi\\TryndadeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\TryndadeApi\\TryndadeApi.csproj",
+        "projectUniqueName": "c:\\projetos\\TryndadeApi\\TryndadeApi.csproj",
         "projectName": "TryndadeApi",
-        "projectPath": "C:\\projetos\\TryndadeApi\\TryndadeApi.csproj",
+        "projectPath": "c:\\projetos\\TryndadeApi\\TryndadeApi.csproj",
         "packagesPath": "C:\\Users\\monytor TI\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\TryndadeApi\\obj\\",
+        "outputPath": "c:\\projetos\\TryndadeApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
